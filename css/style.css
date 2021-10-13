@@ -1,0 +1,59 @@
+.btn-primary{
+	background-color: #84bd00;
+}
+
+#services{
+	background-color: #0E1502;
+	color: #fff;
+}
+
+.col-lg-12{
+	color: #fff;
+}
+
+footer{
+    background-color: #0E1502;
+}
+
+
+body{
+    background-color: #0E1502;
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+#services img{
+	max-width: 100%;
+}
+
+
+header.masthead {
+    background-image: url(../img/Teknikjakten_Digidel_header2.png);
+    height: 150vh;
+}
+
+
+mark {
+	background-color: #0E1502;
+	color: #fff;
+  }
+
+
+  .uppgift-box {
+    background-color: #0E1502;
+    border: 2px #84bd00 solid;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.card {
+    background-color: #0E1502;
+    border: 2px #84bd00 solid;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
